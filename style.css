@@ -1,47 +1,19 @@
 
 body {
-  font-family: 'Helvetica Neue', sans-serif;
+  font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #FFF8E1;
-  color: #0F264C;
-}
-.hero {
   text-align: center;
-  padding: 60px 20px 40px;
+  background-color: #f8f9fa;
 }
+
+header {
+  background-color: #ffffff;
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
 .logo {
-  width: 150px;
-  margin-bottom: 20px;
-}
-.brand {
-  color: #0F264C;
-}
-.tagline {
-  font-size: 1.2em;
-  margin-top: 10px;
-}
-.cta-button {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 12px 28px;
-  background-color: #0F264C;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-}
-.content {
-  max-width: 720px;
-  margin: 40px auto;
-  padding: 0 20px;
-}
-.read-more {
-  color: #0F264C;
-  text-decoration: underline;
-}
-.footer {
-  text-align: center;
-  font-size: 0.9em;
-  margin: 60px 0 20px;
-  color: #666;
+  max-width: 240px;
+  height: auto;
 }
