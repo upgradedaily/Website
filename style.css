@@ -1,0 +1,62 @@
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+  background-color: #FFF9EC;
+  color: #1F2937;
+  text-align: center;
+  padding: 0;
+}
+
+header {
+  padding: 2rem 1rem;
+  background-color: #FFF9EC;
+}
+
+.logo {
+  width: 120px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #1F2937;
+}
+
+.tagline {
+  font-size: 1.25rem;
+  color: #6B7280;
+}
+
+.blog-preview {
+  background-color: #ffffff;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 12px;
+  max-width: 600px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+}
+
+.blog-preview h2 {
+  color: #3B82F6;
+}
+
+.blog-preview p {
+  color: #6B7280;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #3B82F6;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #FFF9EC;
+  padding: 1rem;
+  font-size: 0.9rem;
+  color: #6B7280;
+}
