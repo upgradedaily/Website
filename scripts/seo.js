@@ -1,0 +1,1 @@
+// JS placeholder for future structured data, sitemap, etc.

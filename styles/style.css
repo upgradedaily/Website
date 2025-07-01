@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fff7e6;
+    margin: 0;
+    padding: 0;
+    color: #2c2c2c;
+    text-align: center;
+}
+.logo {
+    width: 150px;
+    margin: 20px auto;
+}
+header, footer {
+    background-color: #fdf4dc;
+    padding: 20px;
+}
+.hero-article {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+}
+a {
+    text-decoration: none;
+    color: #1a73e8;
+}
+a:hover {
+    text-decoration: underline;
+}
